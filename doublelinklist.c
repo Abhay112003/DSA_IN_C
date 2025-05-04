@@ -84,7 +84,7 @@ void searchStudent()
    {
     if(p->rollno==s)
      {
-      printf("Student Is Found");
+      printf("Student is Found");
       count=0;
      }
    }
